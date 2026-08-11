@@ -1,3 +1,4 @@
+![Uploading Captura de tela de 2026-08-10 19-59-49.png…]()
 # Jumanji DOS (SVGA Edition) 🎲🌲
 
 Um jogo de tabuleiro clássico e retro construído em **C++ de 16-bits** para o sistema operacional **MS-DOS / FreeDOS**, rodando em alta resolução gráfica de **800x600 pixels (256 cores)** através do padrão **VESA VBE (SVGA)**. 
